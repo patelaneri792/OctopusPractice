@@ -5,3 +5,4 @@ push package
 create release
 deploy release
 again deploy release
+checking for ci
